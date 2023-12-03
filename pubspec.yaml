@@ -1,9 +1,9 @@
 name: font_awesome
 description: The iconic font and CSS framework
-version: 6.1.1
+version: 6.1.2
 homepage: https://github.com/luisvt/Font-Awesome
 environment:
-  sdk: ">=2.0.0 <3.0.0"
+  sdk: ">=2.0.0 <4.0.0"
 authors:
   - Luis Vargas <luisvargastijerino@gmail.com>
   - Dave Gandy <dave@fontawesome.io>
